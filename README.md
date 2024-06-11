@@ -111,11 +111,6 @@ This voting system has the following rules and limitations:
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 Feel free to customize the README file based on your specific project details, such as the repository URL, screenshot, and any additional sections or information you want to include.
 ```
