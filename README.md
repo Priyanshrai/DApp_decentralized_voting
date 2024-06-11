@@ -5,7 +5,7 @@ Sure! Below is a sample README file for your Decentralized Voting DApp repositor
 
 A decentralized voting application built on the Ethereum blockchain using Solidity, React, Web3.js, and Bootstrap. This DApp allows users to create proposals and vote on them in a transparent and secure manner.
 
-![Decentralized Voting DApp Screenshot](screenshot.png)
+![Decentralized Voting DApp Screenshot](https://github.com/Priyanshrai/DApp_decentralized_voting/assets/105690577/3016b9c3-026f-47e7-a15e-86dce33f2500)
 
 ## Features
 
