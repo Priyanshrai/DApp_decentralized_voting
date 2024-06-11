@@ -1,4 +1,4 @@
-Sure! Below is a sample README file for your Decentralized Voting DApp repository. You can customize it further based on your specific project details.
+![Decentralized Voting DApp Screenshot](https://github.com/Priyanshrai/DApp_decentralized_voting/assets/105690577/3016b9c3-026f-47e7-a15e-86dce33f2500)
 
 ```markdown
 # Decentralized Voting DApp
@@ -134,4 +134,4 @@ Feel free to customize the README file based on your specific project details, s
 11. **Contributing**: Information on how to contribute to the project.
 12. **License**: License information.
 
-You can add a screenshot of your application by saving it as `screenshot.png` in the root directory of your project. Adjust any sections as necessary to fit your project's specifics.
+
